@@ -1,0 +1,36 @@
+body {
+  background-color: #0b0b0b;
+  color: #d8d8d8;
+  font-family: 'Courier New', Courier, monospace;
+  padding: 40px;
+}
+
+h1 {
+  color: #8e44ad;
+  text-shadow: 0 0 10px #9400d3;
+  font-size: 3em;
+  text-align: center;
+  font-style: oblique;
+}
+
+h2 {
+  color: #8e44ad;
+  margin: auto;
+  text-align: center;
+}
+
+p {
+  font-size: 1.2em;
+  line-height: 1.6;
+  max-width: 800px;
+  margin: auto;
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+}
+
+li {
+  text-align: center;
+}
